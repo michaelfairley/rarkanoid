@@ -14,5 +14,5 @@ bundle
 ruby rarkanoid.rb
 ```
 
-Left/right to control the paddle
+Left/right to control the paddle  
 Esc to exit
