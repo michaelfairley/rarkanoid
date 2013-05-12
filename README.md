@@ -1,7 +1,7 @@
 # Rarkanoid
 A quick 'n dirty Arkanoid clone in Ruby using Gosu.
 
-[Imgur](http://i.imgur.com/lqSlPJb.png?1)
+![Imgur](http://i.imgur.com/lqSlPJb.png?1)
 
 ## Setup
 ```
